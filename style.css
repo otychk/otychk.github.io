@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto")
+.child {
+	height: 50px; 
+	width: 45%;
+	display: inline-block;
+	background-color: red;
+}
+.parent{
+	height: 50px;
+	width: 45%;
+	display: inline-block;
+	background-color: green;
+}
+.inline{
+	background-color: blue;
+}
+.font{
+	font-family: "Roboto", sans-serif;
+}
+p .first a{
+	
+}
+h1~p{
+	color: green;
+}
+ol li{
+	display: inline-block;
+}
+ol li:hover{
+	background-color: yellow;
+}
+ol li::after{
+	content: ">";
+	background-color: yellow;
+}
