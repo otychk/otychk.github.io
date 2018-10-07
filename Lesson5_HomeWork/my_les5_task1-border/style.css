@@ -1,0 +1,7 @@
+div{
+	width: 200px;
+	height: 200px;
+	border-width: 5px 7px 5px 3px;
+	border-style: solid double solid dashed;
+	border-color: blue red blue green;
+}

@@ -1,0 +1,18 @@
+.block1{
+    width: 120px;
+    height: 120px;    
+    border-style:solid;
+    border-color:red;
+    border-width:40px;
+    border-radius: 240px;
+    background-color: white;
+    padding: 40px;
+    background-size: initial;
+
+}
+.block2{
+    width: 120px;
+    height: 120px;
+    background-color: blue;
+    border-radius: 80px;
+}
